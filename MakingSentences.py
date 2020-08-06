@@ -13,3 +13,5 @@ for sub in subject :
     for v in verb:
         for ob in objects:
             print(sub+" "+v+" "+ob+".")
+
+            
